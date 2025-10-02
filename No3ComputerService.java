@@ -9,7 +9,7 @@ class Account {
         this.statusCode = statusCode;
     }
 }
-public class ComputerService {
+public class No3ComputerService {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Account[] accounts = {
@@ -40,4 +40,5 @@ public class ComputerService {
         scanner.close();
     }
 }
+
 
